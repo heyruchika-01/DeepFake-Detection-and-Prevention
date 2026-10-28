@@ -1,11 +1,13 @@
 # DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI
 ## Table of Contents
-* [Introduction](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI?tab=readme-ov-file#introduction)
-* [Documentation](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#documentation)
-* [Code](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#code)
-* [Usage](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#usage)
-* [Result Snapshots](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#result-snapshots)
-* [Tools](https://github.com/Ramya-Mahi/DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI/blob/main/README.md#tools)
+## Table of Contents
+
+- [Introduction](https://github.com/heyruchika-01/DeepFake-Detection-and-Prevention#introduction)
+- [Documentation](https://github.com/heyruchika-01/DeepFake-Detection-and-Prevention#documentation)
+- [Code](https://github.com/heyruchika-01/DeepFake-Detection-and-Prevention#code)
+- [Usage](https://github.com/heyruchika-01/DeepFake-Detection-and-Prevention#usage)
+- [Result Snapshots](https://github.com/heyruchika-01/DeepFake-Detection-and-Prevention#result-snapshots)
+- [Tools](https://github.com/heyruchika-01/DeepFake-Detection-and-Prevention#tools)
 
 
 ## Introduction
